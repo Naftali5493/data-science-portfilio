@@ -1,0 +1,11 @@
+Review_ID,Review_Text,Sentiment
+1,Great product! Highly recommend.,Positive
+2,Not satisfied with the quality.,Negative
+3,Amazing service and fast delivery.,Positive
+4,"Terrible experience, will not buy again.",Negative
+5,"Decent quality, but could be better.",Neutral
+6,Absolutely love it!,Positive
+7,Worst purchase ever!,Negative
+8,Good value for money.,Positive
+9,Exceeded my expectations.,Positive
+10,Very disappointing product.,Negative
